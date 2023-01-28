@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\salem\OneDrive\سطح المكتب\C++\SankeGame\SankeGame\Source.cpp(19,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SankeGame.vcxproj -> C:\Users\salem\OneDrive\سطح المكتب\C++\SankeGame\Debug\SankeGame.exe
